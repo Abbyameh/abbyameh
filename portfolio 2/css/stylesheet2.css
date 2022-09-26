@@ -1,0 +1,113 @@
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    border-bottom: 1px solid #434A5C;
+    background: #ffffff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.menu li{
+    display: inline-block;
+      padding: 20px 35px;
+
+}
+.menu a{
+    text-decoration: none;
+    color: #333333;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    
+}
+section.banner{
+    padding-top: 150px;
+    padding-bottom: 75px;
+    background: url('../img/game\ control.jpeg') center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+}
+section.banner h1{
+    text-transform: uppercase;
+    padding-top: 2%;
+    text-orientation: upright;
+    text-size-adjust: 200px;
+    color: white;
+    font-size: xx-large;
+}
+section.banner p{
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+img.logo{
+    margin: 0 auto;
+    display: block;}
+
+img.profile{
+    border: 1px solid grey;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    margin-right: 10px;
+    float: left;
+    margin-left: 100px;
+}
+h1{
+    text-align: center;
+    color: #00b176;
+    font-family: 'Oswald', sans-serif;
+}
+
+  h2{
+      text-align: center;
+      color: #00b176;
+      font-family: 'Oswald', sans-serif;
+      margin-top: 5%;
+      font-size: xx-large;
+  }
+  p{
+    line-height: 1.4;
+    font-size: 15px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 10%;
+    text-align: justify;
+  }
+
+h3{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #00b176;
+    margin-top: 10%;
+    font-size: xx-large;
+}
+h4{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #00b176;
+    margin-top: 2%;
+    font-size: larger;
+}
+img.favourite {
+    border-radius: 200%;
+    border: 1px solid #00b176;
+    width: 200px;
+    padding: 5px;
+    margin: 20px;
+    text-align: center;
+    
+  }
+  section.contact {
+    background: url(/img/tile.png);
+    padding-top: 10px;
+  }
+ 
+ 
